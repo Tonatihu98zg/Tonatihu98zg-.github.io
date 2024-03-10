@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(103, 135, 161);
+}
+
+
+.padre{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.hijo:hover{
+    color: brown;
+}
